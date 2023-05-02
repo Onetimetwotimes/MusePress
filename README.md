@@ -7,7 +7,9 @@ In the past, the MuseScore platform allowed anyone to download a pdf version of 
 - When completed, you will be able to press the `Print!` button, which will open your browser's print dialog. From there you can print the document, or save it as a PDF
 
 ## Non-Features
-This tool is make music arrangements freely available, and more accesible. This tool is meant for musicians to use for private practice or performance. The following features are not and will not be implemented
+This tool is meant to make music arrangements freely available, and more accessible for musicians to use in private practice or performance. The following features are not and will not be implemented
 - Downloading original MuseScore project files
 - Downloading MP3 audio of the arrangement
 - Downloading MIDI files of the arrangement
+
+Try it out on my website! https://www.kaisavi.net/musepress
