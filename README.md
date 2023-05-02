@@ -1,29 +1,13 @@
-# -musescorescraper-
+# MusePress
+In the past, the MuseScore platform allowed anyone to download a pdf version of any arrangement without signing in or paying a fee. Although this is no longer true, the arrangements on MuseScore.com are displayed using SVG images, which are ideal for printing.
 
-This template should help get you started developing with Vue 3 in Vite.
+## Features
+- Paste the URL of the desired score into the input box, and click the `Grab!` button.
+- The tool will automatically query the MuseScore API and provide you with the pages to print.
+- When completed, you will be able to press the `Print!` button, which will open your browser's print dialog. From there you can print the document, or save it as a PDF
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+## Non-Features
+This tool is make music arrangements freely available, and more accesible. This tool is meant for musicians to use for private practice or performance. The following features are not and will not be implemented
+- Downloading original MuseScore project files
+- Downloading MP3 audio of the arrangement
+- Downloading MIDI files of the arrangement
